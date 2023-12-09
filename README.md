@@ -28,7 +28,7 @@ This project demonstrates the development of a Network File System (NFS) compris
 
 3. **Advanced Features:**
    - Explore concurrent access, optimized searches, and data replication.
-   - 
+
 # Setup
 
 1. Clone this repository / Download the zip file
